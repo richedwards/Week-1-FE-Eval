@@ -4,3 +4,9 @@
    -webkit-box-sizing: border-box;
    box-sizing: border-box;
 }
+
+.proudly {
+	background-color: #858585;
+	color: #ffffff;
+	text-align: center;
+}
